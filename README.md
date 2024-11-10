@@ -17,7 +17,7 @@ Are you tired of laggy, unreliable executors for Roblox? Solara Executor brings 
 > * 🎛️ User-Friendly Interface: Designed to be simple and accessible, Solara is great for beginners while still powerful enough for advanced users.
 > * 🚀 Optimized Performance: Built to avoid lag, Solara lets you run scripts efficiently without the drag that plagues many other executors.
 
-![[Frame 2147223630 (2)](https://github.com/user-attachments/assets/4859cbbe-a75d-4eff-94fb-11aca042c702)(https://github.com/)]
+![Frame 2147223630 (2)](https://github.com/user-attachments/assets/c565c3ea-a34a-403c-b823-f5606a0ec382)
 
 
 *Try Solara if you're tired of unreliable Roblox executors!*
